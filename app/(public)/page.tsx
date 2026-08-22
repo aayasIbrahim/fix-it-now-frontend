@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-  <p> home page</p>
+  <h1 className="text-teal-400 "> I am Shihab</h1>
   );
 }
