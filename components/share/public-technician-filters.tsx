@@ -3,7 +3,7 @@
 
 import { useRouter, usePathname, useSearchParams } from "next/navigation";
 import { Search, MapPin, Star, RotateCcw, Filter } from "lucide-react";
-import { useState, useTransition} from "react";
+import { useState, useTransition, useEffect } from "react";
 
 export function TechnicianFilters() {
     const router = useRouter();
