@@ -379,7 +379,7 @@ Create a `.env.local` file in the project root:
 
 ```env
 # Backend API
-BACKEND_API_URL=https://fixitnow-backend-tau.vercel.app/api
+BACKEND_API_URL=   https://fixitnowfrontend-five.vercel.app/api
 
 # Frontend URL
 NEXT_PUBLIC_APP_URL=http://localhost:3000
